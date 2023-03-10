@@ -1,5 +1,4 @@
-
- create table tblTeam(
+create table tblTeam(
  num int primary key auto_increment,
  name char(10) not null,
  city char(10) not null,
